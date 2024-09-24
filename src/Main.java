@@ -22,7 +22,7 @@ public class Main {
         } while (isReady);
 
 
-        // While statement
+        // While statement that prints 5 through 50 but skipping all divisible by 25
         int number = 0;
         while (number < 50){
             number += 5;
